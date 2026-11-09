@@ -15,7 +15,7 @@ A professional, luxury-design tournament website for BGMI (Battlegrounds Mobile 
 - Tailwind CSS
 - Deployed on Vercel
 🚀 Live Demo
-- Coming Soon on Vercel
+- https://bgmi-legends.vercel.app/
 👨‍💻 Developed By
 - Kabit Lego - Founder, KTix Studio
 - KTix Studio - We Build Luxury Websites for Businesses & Gamers
